@@ -4133,12 +4133,12 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0x022C766703d65530b47f68Ec26D403eE4fcbDC16",
-      "transactionHash": "0x86e2fd937c6752acc849966ab3ea76106ff8566e1f4f048dd644d8593e549f19"
+      "address": "0x2a313C3E96204Bbeb16348E57967C2Ca63dE87B1",
+      "transactionHash": "0xd4941dcfc8f630c77f7fa2ed01bb6900b056bb095f430711c7e640d429f42911"
     }
   },
   "schemaVersion": "3.4.7",
-  "updatedAt": "2022-05-04T00:24:13.524Z",
+  "updatedAt": "2022-05-08T18:58:35.008Z",
   "networkType": "ethereum",
   "devdoc": {
     "details": "Store & retrieve value in a variable",
